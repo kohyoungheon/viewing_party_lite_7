@@ -4,6 +4,11 @@
 
 Viewing Party Lite is an application in which users can explore movie options and create a viewing party event for themselves and other users of the application.
 
+## Preview
+
+<img width="1008" alt="Screenshot 2023-06-11 at 4 05 13 PM" src="https://github.com/kohyoungheon/viewing_party_lite_7/assets/92887935/c7fd0b20-5386-44c3-a5f9-80b830d53164">
+
+
 ## Goals
 
 * Consume JSON APIs that require authentication 
