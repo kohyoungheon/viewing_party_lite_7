@@ -13,6 +13,7 @@ Viewing Party Lite is an application in which users can explore movie options an
 * Follow DRY and SRP Principles
 * Adherence to MVC
 * ActiveRecord is used to query DB.
+* 100% Test Coverage.
 
 
 ## Setup
